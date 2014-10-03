@@ -1,0 +1,4 @@
+AuthName "Managmenet Pages"
+AuthType Basic
+AuthUserFile "/var/www/www.visionsystems.tv/spbulk/.htpasswd"
+require valid-user

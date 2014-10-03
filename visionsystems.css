@@ -1,0 +1,90 @@
+TD {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+}
+
+BODY {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+}
+
+white-link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #FFFFFF;
+}
+
+.whitetext {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 10pt;
+
+
+}
+.justify {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-align: justify;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.gray {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #686868;
+}
+.darkgray {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+}
+.content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.content2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+}
+.inputButton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.select {
+	width: 168px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+
+}
+.boldred {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #990000;
+}
+.required {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #990000;
+	font-weight: bold;
+
+}
+.large-bold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	color: #000000;
+}
