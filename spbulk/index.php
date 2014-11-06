@@ -56,5 +56,6 @@ if(isset($_POST['submitted'])) {
 <tr><td colspan="2"><input type="submit" value="Submit"></td></tr>
 </table>
 </form>
+<a href="vacate.php">Multi-Moveout Tool</a>
 </body>
 </html>

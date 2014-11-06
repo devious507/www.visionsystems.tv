@@ -59,7 +59,7 @@ if(isset($_POST['submitted'])) {
 	foreach($emails as $e) {
 		        mail($e,$subject,$data);
 	}
-	print "<html><head><title>Thank You</title></head><body>Thank your for letting us know about the status change for this unit.<br><br>Vision Systems Staff<br><br><a href=\"vacate.php\">Process Another</a></body></html>\n";
+	print "<html><head><title>Thank You</title></head><body>Thank your for letting us know about the status change for this unit.<br><br>Vision Systems Staff<br><br><a href=\"index.php\">Process Another</a></body></html>\n";
 	exit();
 }
 ?>
@@ -80,5 +80,6 @@ if(isset($_POST['submitted'])) {
 <tr><td colspan="8"><input type="submit" value="Submit"></td></tr>
 </table>
 </form>
+<a href="index.php">Single Form Tool</a>
 </body>
 </html>
