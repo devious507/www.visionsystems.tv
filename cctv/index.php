@@ -3,7 +3,6 @@
 <title>Vision Systems CCTV</title>
 </head>
 <body>
-<p>Website Under Development</p>
-<p>Give us a call at 838-5776 to discuss your security and surveillance needs</p>
+<embed src="content.pdf" width="100%" height="100%">
 </body>
 </html>

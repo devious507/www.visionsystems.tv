@@ -38,7 +38,7 @@ if(isset($_POST['submitted'])) {
 <table border="1" cellpadding="5" cellspacing="0">
 <tr><td colspan="2" align="center" bgcolor="#ffffff"><img src="../images/sub-logo.jpg"></td></tr>
 <tr><td>Entered By</td><td><input name="EnteredBy" type="text" size="30"></td></tr>
-<tr><td>Reason</td><td><input type="radio" name="inout" value="In">In<br><input type="radio" name="inout" value="Out">Out<br><input type="radio" name="inout" value="transition">Transition</td></tr>
+<tr><td>Reason</td><td><input type="radio" name="inout" value="In">In<br><input type="radio" name="inout" value="Out">Out<br><input type="radio" name="inout" value="transition">Change</td></tr>
 <tr><td>Effective Date</td><td><input name="Date" type="text" size="10"></td></tr>
 <tr><td>Building #</td><td><input name="building" type="text" size="10"></td></tr>
 <tr><td>Apartment</td><td><input name="apartment" type="text" size="10"></td></tr>
