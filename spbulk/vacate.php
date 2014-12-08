@@ -34,6 +34,7 @@ if(isset($_POST['submitted'])) {
 	$lines[]='Mass Vacate Notice:';
 	$lines[]='---------------------------------------------------------';
 	$lines[]=' ';
+	$lines[]="Entered By: {$_POST['entered_by']}\n";
 	for($i=1; $i < $maxCount; $i++) {
 		$tmpName=array();
 		$date=$_POST["date{$i}"];
@@ -75,6 +76,7 @@ if(isset($_POST['submitted'])) {
 <input type="hidden" name="submitted" value="true">
 <table border="0" cellpadding="0" cellspacing="5">
 <tr><td colspan="8" align="center" bgcolor="#ffffff"><img src="../images/sub-logo.jpg"></td></tr>
+<tr><td colspan="2">Entered By:</td><td colspan="6"><input type="text" name="entered_by"></td></tr>
 <tr><td>&nbsp;</td><td>Date</td><td>Building</td><td>Apt #</td><td>Name 1</td><td>Name 2</td><td>Name 3</td><td>Name 4</td></tr>
 <?php echo $myDataTable; ?>
 <tr><td colspan="8"><input type="submit" value="Submit"></td></tr>

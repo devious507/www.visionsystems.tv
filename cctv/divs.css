@@ -1,0 +1,82 @@
+div {
+	border: none;
+}
+td {
+	padding: 2px;
+}
+div.left_side {
+	height: 770px;
+	width: 400px;
+	left: 0px;
+	top: 0px
+	position: absolute;
+	background-color: black;
+}
+div.right_side2{
+	height: 770px;
+	width: 600px;
+	left: 400px;
+	top: 0px;
+	padding-top: 130px;
+	padding-left: 20px;
+	position: absolute;
+	background-color: #cdd6e8;
+}
+div.right_side {
+	height: 770px;
+	width: 600px;
+	left: 400px;
+	top: 0px;
+	position: absolute;
+	background-color: #cdd6e8;
+}
+div.security_surveillance {
+	height: 120px;
+	width: 980px;
+	left: 10px;
+	top: 10px;
+	position: absolute;
+}
+div.eye_on_life {
+	height: 80px;
+	width: 600px;
+	top: 140px;
+	position: relative;
+	background-color: #cdd6e8;
+}
+div.bullet_points {
+	height: 180px;
+	width: 600px;
+	top: 120px;
+	position: relative;
+}
+div.sites {
+	height: 110px;
+	width: 600px;
+	top: 120px;
+	position: relative;
+	background-color: #8aa1c8;
+}
+div.form_header {
+	height: 20px;
+	width: 600px;
+	top: 125px;
+	position: relative;
+	background-color: #8aa1c8;
+	color: black;
+	text-align: center;
+}
+div.form {
+	height: 145px;
+	width: 600px;
+	top: 125px;
+	position: relative;
+}
+div.call_now {
+	height: 110px;
+	width: 600px;
+	top: 125px;
+	position: relative;
+	background-color: #00508f;
+	color: white;
+}
