@@ -155,7 +155,6 @@ function mmLoadMenus() {
 						<table cellpadding="5" cellspacing="0" border="0" width="420">
 							<tr>
 								<td>
-								<p style="font-weight: bold;">Attention High Definition Subscribers: please click <a href="rescan/index.html">here</a> for important information regarding reprogramming your receivers.</p>
 								<script src="http://securityalerts.mcafee.com/mcalerts/en-us/AlertConstant.js"></script>
 								<script src="http://securityalerts.mcafee.com/mcalerts/en-us/ResourceFile.js"></script>
 								<script src="http://securityalerts.mcafee.com/mcalerts/AlertDisplay.js"></script>

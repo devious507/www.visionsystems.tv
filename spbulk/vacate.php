@@ -23,7 +23,6 @@ for($i=1; $i < $maxCount; $i++) {
 	$myDataTable.="</tr>\n";
 }
 
-$emails[]='karam@visionsystems.tv';
 $emails[]='paigeh@visionsystems.tv';
 $emails[]='darlab@visionsystems.tv';
 
